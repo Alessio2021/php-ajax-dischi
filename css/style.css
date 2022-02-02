@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+
+header {
+    height: 70px;
+    padding: 10px;
+    background-color: #2E3A46;
+    overflow: hidden;
+}
+header img {
+    width: 50px;
+}
+
+
+/* main */
+
+
+main {
+    background-color: #1E2D3B;
+    height: calc(100vh - 70px); 
+    overflow: hidden;
+}
+
+.container-60 {
+    width: 60%;
+    margin: auto;
+}
+
+/* footer */
+
+
