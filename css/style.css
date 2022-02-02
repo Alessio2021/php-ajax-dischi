@@ -22,8 +22,9 @@ header img {
 
 main {
     background-color: #1E2D3B;
-    height: calc(100vh - 70px); 
+    height: calc(100% - 100px); 
     overflow-x: hidden;
+    padding-bottom: 3em;
 }
 
 .container-60 {
@@ -40,4 +41,9 @@ main {
 
 /* footer */
 
+footer {
+    text-align: center;
+    height: 50px;
+    background-color: #2E3A46;
+}
 

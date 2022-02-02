@@ -22,6 +22,8 @@
     <?php include_once __DIR__ . '/partials/main.php' ?>
 
     <!-- footer -->
+    <?php include_once __DIR__ . '/partials/footer.php' ?>
+
 
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 
