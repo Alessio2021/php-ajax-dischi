@@ -19,15 +19,9 @@
     <?php include_once __DIR__ . '/partials/header.php' ?>
 
     <!-- main -->
-    <main>
-        <div class="container-60">
-            <div>
-                <div class="row row-cols-5 px-5 pt-5">
-                    <!-- <Card v-for="(card, index) in cards" :key="index" :img="card.poster" :title="card.title" :author="card.author" :year="card.year" /> -->
-                </div>
-            </div>
-        </div>
-    </main>
+    <?php include_once __DIR__ . '/partials/main.php' ?>
+
+    <!-- footer -->
 </body>
 
 </html>
